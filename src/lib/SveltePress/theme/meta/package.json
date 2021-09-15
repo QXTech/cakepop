@@ -1,0 +1,11 @@
+{
+  "name": "cakepop",
+  "version": "1.0.0",
+  "type": "module",
+  "devDependencies": {
+    "carbon-icons-svelte": "10.38.0",
+    "daisyui": "1.14.0",
+		"svelte-typewriter": "2.4.5",
+    "vite-plugin-windicss": "1.4.3"
+  }
+}

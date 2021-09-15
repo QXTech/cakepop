@@ -1,0 +1,24 @@
+.DS_Store
+node_modules
+/.svelte-kit
+/package
+/.vercel_build_output
+/.svelte
+/build
+.pnpm-debug.log*
+*.log
+npm-debug.log*
+.AppleDouble
+.LSOverride
+.idea
+.cloud
+.project
+tmp/
+typings/
+/.gitkeep
+
+# DB
+/src/lib/SveltePress/db/*.js
+
+# Symlinks
+/sveltePress.config.js
